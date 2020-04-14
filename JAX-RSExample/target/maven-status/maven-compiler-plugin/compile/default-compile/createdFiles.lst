@@ -1,0 +1,4 @@
+com\restdemo\jaxrs\model\Person.class
+com\restdemo\jaxrs\service\PersonServiceImpl.class
+com\restdemo\jaxrs\service\PersonService.class
+com\restdemo\jaxrs\model\Response.class
